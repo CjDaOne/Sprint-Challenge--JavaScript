@@ -35,7 +35,7 @@ Edit this document to include your answers after each question. Make sure to lea
 3. What is closure?
 > A function in which the body  has access to variables declared outside of the function
 4. Describe the four rules of the 'this' keyword.
-> ...
+> ...I'm honestly not sure about this referrance 
 5. Why do we need super() in an extended class?
 > `super()` is used to inform a parent’s constructor to be concerned with the child’s attributes 
 ## Project Set up
