@@ -127,10 +127,10 @@ console.log(graduates)
 The resulting contact information should have a space between the first name and the email information like this: 
 Name email@example.com
 Log the result of your new array. */
-const contactInfo = graduates.map((state) => {
-  return {email: state.email, first_name: state.first_name}; 
+const contactInfo = graduates.map((state)) {  
+  return (`${email: state.email}; ${first_name: state.first_name}`); 
 
-  },
+  } 
 
 console.log(contactInfo)
 
